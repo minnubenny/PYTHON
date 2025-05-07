@@ -1,4 +1,4 @@
-import pickle
+import pickle #saving and loading
 
 # Load the contact book from a file
 def load_contacts():
